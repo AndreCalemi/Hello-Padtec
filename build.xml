@@ -1,3 +1,7 @@
+<project name="build">
+    <target name="compile">
+		<mkdir dir="target/classes/"/>
+		<javac destdir="target/classes/" srcdir="src/main/java/" debug="true" encoding="UTF-8" />
+    </target>
 
-<Javac HelloPadtec.java>
-<Java HelloPadtec>
+</project>
