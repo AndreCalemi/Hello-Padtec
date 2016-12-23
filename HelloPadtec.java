@@ -1,5 +1,5 @@
 
-public class HelloPadted {
+public class HelloPadtec {
 
     public static void main(String[] args) {
         
